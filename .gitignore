@@ -18,6 +18,7 @@
 /storage/logs/optimize.txt
 /storage/logs/live-trade.txt
 /storage/logs/paper-trade.txt
+/storage/logs/backtest-mode/*.txt
 /storage/genetics/*.txt
 /storage/csv/*.csv
 /storage/json/*.json
