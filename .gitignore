@@ -1,6 +1,5 @@
 /_pycache_
 /.pytest_cache
-/.vscode
 /jesse.egg-info
 /.idea
 /storage/*.key
